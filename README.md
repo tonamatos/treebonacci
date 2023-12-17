@@ -10,6 +10,6 @@ Recently, it was proved that these trees are indeed *local* amoebas, which is mu
 
 ## References
 
-[1] Eslava, L., Hansberg, A., _, Ventura, D., New recursive constructions of amoebas and their balancing number, preprint, 2023.
+[1] <a href="http://arxiv.org/abs/2311.17182">Eslava, L., Hansberg, A., _, Ventura, D., *New recursive constructions of amoebas and their balancing number*, **preprint**, 2023.</a><br/>
 
-[2] Caro, Y., Hansberg, A., Montejano, A. (2023). Graphs isomorphisms under edge-replacements and the family of amoebas. Electronic Journal of Combinatorics 30(3) P3.9
+[2] <a href="https://www.combinatorics.org/ojs/index.php/eljc/article/download/v30i3p9/pdf/">Caro, Y., Hansberg, A., Montejano, A. (2023). *Graphs isomorphisms under edge-replacements and the family of amoebas*. **Electronic Journal of Combinatorics 30(3) P3.9**</a><br/>
