@@ -6,7 +6,7 @@
 
 Construction of a family of Fibonacci-type trees that arise in the study of sparse amoeba graphs. Concretely, it is the first example of an infinite family of global amoebas with arbitrary maximum degree ([2, Section 3]).
 
-Recently, it was proved that these trees are indeed *local* amoebas, which is much stronger (see [1]). That project was in part inspired by the computations present in this repository.
+Recently, it was found that these trees are actually *local* amoebas, which is stronger (see [1]). That project was in part inspired by the computations present in this repository.
 
 ## References
 
